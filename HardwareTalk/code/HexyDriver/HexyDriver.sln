@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexyDriver", "HexyDriver\HexyDriver.csproj", "{EF69AB87-BAFE-479B-9D05-65DEA1701008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF69AB87-BAFE-479B-9D05-65DEA1701008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF69AB87-BAFE-479B-9D05-65DEA1701008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF69AB87-BAFE-479B-9D05-65DEA1701008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF69AB87-BAFE-479B-9D05-65DEA1701008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
